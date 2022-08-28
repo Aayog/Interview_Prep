@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#define ARRAY_SIZE 30
+#define ARRAY_SIZE 50
 
 using namespace std;
 
