@@ -11,7 +11,7 @@
 
 Worst case:
     - In opposite order; everything has to be bubbled up
-    ```math
+    ``` 
     N + (N - 1) + (N - 2) + ... + 1 = N(N+1)/2 = N^2/2 + N/2
     ```
     we take the dominating term and remove constants for ease of comparison and understanding
