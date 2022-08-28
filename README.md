@@ -2,7 +2,7 @@
 
 ### Sorts
 
-#### [Bubble Sort ](../sorting/bubble_sort.cpp)
+#### [Bubble Sort ](../main/sorting/bubble_sort.cpp)
  As the name suggests, in the sorting algorithm each number bubbles up to its correct order (depending on the implementation it can be ascending or descending)
 
 Best case:
@@ -15,7 +15,7 @@ Worst case:
     we take the dominating term and remove constants for ease of comparison and understanding
     - ```O(N^2)```
 
-#### [Merge Sort ](../sorting/merge_sort.cpp)
+#### [Merge Sort ](../blob/main/sorting/merge_sort.cpp)
  As the name suggests, in the sorting algorithm each number bubbles up to its correct order (depending on the implementation it can be ascending or descending)
 
 Best case:
