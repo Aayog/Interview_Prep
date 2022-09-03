@@ -2,3 +2,8 @@
 git.*
 git
 **/*.exe
+**/*.cmake
+**/CMakeFiles/
+**/Makefile
+**/*Cache.txt
+**/runTests

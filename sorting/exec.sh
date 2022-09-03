@@ -5,7 +5,7 @@ then
     echo "Example: $0 hello"
     echo "Here, the filename is hello.cpp ~~omit the .cpp~~"
 else
-    g++ -o$1.exe $1.cpp
+    g++ -o$1.exe $1.cpp $2
     ./$1.exe
     rm ./$1.exe
 fi
